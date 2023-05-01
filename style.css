@@ -1,0 +1,29 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+a {
+  margin-right: 50px;
+  text-decoration: none;
+}
+#links {
+  font-size: 26px;
+}
+
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: whitesmoke;
+}
+h1 {
+  font-size: 48px;
+}
+h3 {
+  font-size: 26px;
+}
+textarea {
+  vertical-align: text-top;
+  margin-top: 15px;
+}
